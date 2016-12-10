@@ -1,0 +1,7 @@
+Ingredients:
+ - Kimchi
+
+Directions:
+  1. Go to Lotte Mart
+  2. Buy Kimchi
+
